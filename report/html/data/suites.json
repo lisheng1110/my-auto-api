@@ -1,0 +1,25 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "day03",
+    "children" : [ {
+      "name" : "allure",
+      "children" : [ {
+        "name" : "用例描述",
+        "uid" : "904b2b4d894522a8",
+        "parentUid" : "cdc0ff0bda98df1d98a31b16b5214fbc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573183562720,
+          "stop" : 1573183563054,
+          "duration" : 334
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cdc0ff0bda98df1d98a31b16b5214fbc"
+    } ],
+    "uid" : "e46677faf8ab18f1a044f361238f45b5"
+  } ]
+}

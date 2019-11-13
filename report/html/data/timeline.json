@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-IRNB1J6",
+    "children" : [ {
+      "name" : "11204-MainThread",
+      "children" : [ {
+        "name" : "用例描述",
+        "uid" : "904b2b4d894522a8",
+        "parentUid" : "a421be3faf2f32c683e03e9f4cac7ae4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573183562720,
+          "stop" : 1573183563054,
+          "duration" : 334
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a421be3faf2f32c683e03e9f4cac7ae4"
+    } ],
+    "uid" : "1c569587cf76a48b86819b5657c393e7"
+  } ]
+}

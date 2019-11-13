@@ -1,0 +1,150 @@
+{
+  "uid" : "2930f0ba0b192298",
+  "name" : "用例描述",
+  "fullName" : "day03.allure#test_change",
+  "historyId" : "25dfed8f3d03424623c32d6285e188d8",
+  "time" : {
+    "start" : 1573181852553,
+    "stop" : 1573181852896,
+    "duration" : 343
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "准备请求数据",
+      "time" : {
+        "start" : 1573181852554,
+        "stop" : 1573181852554,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "发送请求",
+      "time" : {
+        "start" : 1573181852554,
+        "stop" : 1573181852760,
+        "duration" : 206
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4b197c6a66649c1a",
+        "name" : "请求内容",
+        "source" : "4b197c6a66649c1a.txt",
+        "type" : "text/plain",
+        "size" : 330
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "响应结果",
+      "time" : {
+        "start" : 1573181852760,
+        "stop" : 1573181852889,
+        "duration" : 129
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b06648f61bdce732",
+        "name" : "响应内容",
+        "source" : "b06648f61bdce732.txt",
+        "type" : "text/plain",
+        "size" : 251
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "判断结果",
+      "time" : {
+        "start" : 1573181852889,
+        "stop" : 1573181852896,
+        "duration" : 7
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "fa21cb703d89e05a",
+        "name" : "断言响应状态码",
+        "source" : "fa21cb703d89e05a.txt",
+        "type" : "text/plain",
+        "size" : 98
+      }, {
+        "uid" : "35f4dbaf65091cc7",
+        "name" : "断言响应正文",
+        "source" : "35f4dbaf65091cc7.txt",
+        "type" : "text/plain",
+        "size" : 173
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "用户模块"
+  }, {
+    "name" : "story",
+    "value" : "充值接口"
+  }, {
+    "name" : "parentSuite",
+    "value" : "day03"
+  }, {
+    "name" : "suite",
+    "value" : "allure"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-IRNB1J6"
+  }, {
+    "name" : "thread",
+    "value" : "6176-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "day03.allure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2930f0ba0b192298.json",
+  "parameterValues" : [ ]
+}

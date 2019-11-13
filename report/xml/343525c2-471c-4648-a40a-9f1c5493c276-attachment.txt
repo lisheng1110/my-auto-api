@@ -1,0 +1,4 @@
+
+        -------------响应-------------
+        200{'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 08 Nov 2019 03:57:34 GMT'}{"code":2000,"message":"充值成功;账户余额179分","data":""}
+        

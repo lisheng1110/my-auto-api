@@ -1,0 +1,25 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "用户模块",
+    "children" : [ {
+      "name" : "充值接口",
+      "children" : [ {
+        "name" : "用例描述",
+        "uid" : "904b2b4d894522a8",
+        "parentUid" : "81ce24a0e5442cd1039033f397663c84",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573183562720,
+          "stop" : 1573183563054,
+          "duration" : 334
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "81ce24a0e5442cd1039033f397663c84"
+    } ],
+    "uid" : "05b3bb5a51bf85f3651d2c2626f5468c"
+  } ]
+}
